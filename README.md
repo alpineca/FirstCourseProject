@@ -12,17 +12,17 @@ all its columns (marked with an "X") must be demolished.
 - Swing
 
 
-## Login/Wellcome screen
-![Alt text](https://raw.githubusercontent.com/alpineca/DungeonSecrets/master/screenshots/login_menu.jpg)
+## Wellcome screen
+![Alt text](https://raw.githubusercontent.com/alpineca/FirstCourseProject/master/screenshots/first_scene.jpg)
 
-## In Game menu screen
-![Alt text](https://raw.githubusercontent.com/alpineca/DungeonSecrets/master/screenshots/game_menu.jpg)
+## Initializing game
+![Alt text](https://raw.githubusercontent.com/alpineca/FirstCourseProject/master/screenshots/start_gameplay.jpg)
 
-## Create character screen
-![Alt text](https://raw.githubusercontent.com/alpineca/DungeonSecrets/master/screenshots/create_char.jpg)
+## Bomb planting
+![Alt text](https://raw.githubusercontent.com/alpineca/FirstCourseProject/master/screenshots/gameplay_1.jpg)
 
-## Character select screen
-![Alt text](https://raw.githubusercontent.com/alpineca/DungeonSecrets/master/screenshots/char_select.jpg)
+## Building demolution
+![Alt text](https://raw.githubusercontent.com/alpineca/FirstCourseProject/master/screenshots/gameplay_2.jpg)
 
-## Gameplay screen
-![Alt text](https://raw.githubusercontent.com/alpineca/DungeonSecrets/master/screenshots/game_play.jpg)
+## You win screen(You loose is same)
+![Alt text](https://raw.githubusercontent.com/alpineca/FirstCourseProject/master/screenshots/you_win.jpg)
